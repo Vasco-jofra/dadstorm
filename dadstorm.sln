@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessCreationService", "ProcessCreationService\ProcessCreationService.csproj", "{3B216A51-6CE5-4342-8669-7B0E0DF97FC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuppetMaster", "PuppetMaster\PuppetMaster.csproj", "{3131149B-6E47-48BE-BB89-A2BB7D4A02EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DadStormServices", "DadStormServices\DadStormServices.csproj", "{27B636A7-1C88-4231-BA65-7051F0CEC9EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplicaProcess", "OperatorProcess\ReplicaProcess.csproj", "{30219B7E-50D7-43FE-8393-34BDE51B3331}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibTestCustomOperations", "LibTestCustomOperations\LibTestCustomOperations.csproj", "{96FEC1E9-9FF2-4CD4-9076-83DF7FC9916A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplicasInteractionsTest", "ReplicasInteractionsTest\ReplicasInteractionsTest.csproj", "{4037D596-D8A1-4A24-93E3-E46ACAC768D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B216A51-6CE5-4342-8669-7B0E0DF97FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B216A51-6CE5-4342-8669-7B0E0DF97FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B216A51-6CE5-4342-8669-7B0E0DF97FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B216A51-6CE5-4342-8669-7B0E0DF97FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3131149B-6E47-48BE-BB89-A2BB7D4A02EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3131149B-6E47-48BE-BB89-A2BB7D4A02EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3131149B-6E47-48BE-BB89-A2BB7D4A02EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3131149B-6E47-48BE-BB89-A2BB7D4A02EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27B636A7-1C88-4231-BA65-7051F0CEC9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B636A7-1C88-4231-BA65-7051F0CEC9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B636A7-1C88-4231-BA65-7051F0CEC9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B636A7-1C88-4231-BA65-7051F0CEC9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30219B7E-50D7-43FE-8393-34BDE51B3331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30219B7E-50D7-43FE-8393-34BDE51B3331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30219B7E-50D7-43FE-8393-34BDE51B3331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30219B7E-50D7-43FE-8393-34BDE51B3331}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96FEC1E9-9FF2-4CD4-9076-83DF7FC9916A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96FEC1E9-9FF2-4CD4-9076-83DF7FC9916A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96FEC1E9-9FF2-4CD4-9076-83DF7FC9916A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96FEC1E9-9FF2-4CD4-9076-83DF7FC9916A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4037D596-D8A1-4A24-93E3-E46ACAC768D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4037D596-D8A1-4A24-93E3-E46ACAC768D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4037D596-D8A1-4A24-93E3-E46ACAC768D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4037D596-D8A1-4A24-93E3-E46ACAC768D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

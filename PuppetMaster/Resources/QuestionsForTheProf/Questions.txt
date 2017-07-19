@@ -1,0 +1,2 @@
+1. How do we know in what machine should each process be created??
+ A: I think we need to parse the IP from the operator, and match it with some PCS that exists on that same IP.
